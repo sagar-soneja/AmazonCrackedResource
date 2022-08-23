@@ -30,8 +30,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | done | easy dfs  |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) | done | medium array |
+| [Two Sum](https://leetcode.com/problems/two-sum/) |done  | easy |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
