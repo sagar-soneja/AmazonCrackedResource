@@ -56,8 +56,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |done  | easy , all check |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | done | medium |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  | done | hard bhai bahoot hard |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  | done | dp |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/) | done | graph , find disconnected graph |
 
 ---
 <br>
