@@ -48,10 +48,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
-| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | done | easy |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  | done | medium map list |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/)  | done | map |
+| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) | done | complex in time complexity |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
