@@ -72,10 +72,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  | ni hua bahoot hard and long  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  | done | mathematics, hit and trial |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) | done | merge interval related |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
-| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) | medium | map |
+| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  | hard | deque |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | done | hard |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | done | easy |
 
 ---
 <br>
