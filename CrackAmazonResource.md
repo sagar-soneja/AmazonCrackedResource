@@ -70,8 +70,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | done | linkedlist  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  | done | array |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  | ni hua bahoot hard and long  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
-| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
+| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  | done | mathematics, hit and trial |
+| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) | done | merge interval related |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
 | [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
